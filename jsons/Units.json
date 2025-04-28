@@ -2,11 +2,11 @@
 	{
 		"name": "Ancient warrior",
 		"unitType": "Sword",
-		"movement": 2,
-		"strength": 600,
+		"movement": 3,
+		"strength": 400,
 		"cost": 5959,
-		"promotions": ["Logistics","Accuracy I"],
-  "uniques": []
+		"promotions": ["Medic","Medic II","Formation I","Formation II","Drill I","Drill II","Drill III","Shock I","Shock II","Shock III","Blitz","Besiege","Charge","Amphibious","Woodsman"],
+  "uniques": ["Unbuildable"]
 		"attackSound": "phasers"
 	}
 ]
