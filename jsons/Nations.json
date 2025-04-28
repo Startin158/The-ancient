@@ -31,6 +31,9 @@
 		"innerColor": [198,255,192],
 		"cities": ["Lallie"]
 	},
+
+
+
 {
 		"name": "Baa-Liao",
 		"adjective": ["Ancient"],
@@ -47,6 +50,9 @@
 		"innerColor": [198,255,192],
 		"cities": ["Zao"]
 	},
+
+
+
 {
 		"name": "Kracts-Kur",
 		"adjective": ["Ancient"],
@@ -63,18 +69,21 @@
 		"innerColor": [198,255,192],
 		"cities": ["Raktu-Kir"]
 	},
+
+
+
 {
 		"name": "Buguri",
 		"adjective": ["Ancient"],
 		"cityStateType": "Ancient civilisation",
-  "introduction": "",
+  "introduction": "Hello my friend! Unfortunately we don't have as many products as we did at our peak, but we can still trade.",
 
-	 "neutralHello": "",
-		"hateHello": "",
+	 "neutralHello": "Hello, do you want to trade with us?",
+		"hateHello": "The art of exchange is lost. It has been replaced by your monstrosity.",
 
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
+		"declaringWar": "We are not used to fighting wars with weapons. But sometimes the sword is more persuasive than gold..",
+		"attacked": "You dare to attack the nation of gold. You will see the strength of gold.",
+		"defeated": "we should have... we should have prepared our army more, and not strengthened our economy",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
 		"cities": ["Gurig"]
