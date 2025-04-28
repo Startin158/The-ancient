@@ -2,7 +2,7 @@
     {
         "name": "Ancient civilisation",
         "friendBonusUniques": ["[+3 Production, +3 Gold] [in capital]"],
-        "allyBonusUniques": ["[+5 Production, +5 Gold] [in capital]", "[+2 Production, +2 Gold] [in all cities]",""],
+        "allyBonusUniques": ["[+5 Production, +5 Gold] [in capital]", "[+2 Production, +2 Gold] [in all cities]","[2] free random researchable Tech(s) from the [Era of the ancients] <every [44] turns>"],
         "color": [56, 255, 112]
     },
 ]
