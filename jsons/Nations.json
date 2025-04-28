@@ -35,4 +35,17 @@
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
+{
+		"name": "Jerusalem",
+		"adjective": ["Ancient"],
+		"cityStateType": "Religious",
+  "introduction": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198,255,192],
+		"cities": ["Jerusalem"]
+	},
 ]
