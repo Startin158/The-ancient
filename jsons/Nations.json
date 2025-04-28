@@ -32,23 +32,23 @@
 		"cities": ["Lallie"]
 	},
 {
-		"name": "",
+		"name": "Baa-Liao",
 		"adjective": ["Ancient"],
 		"cityStateType": "Ancient civilisation",
-  "introduction": "",
+  "introduction": "Your nation is so large and populated, less than we were in our golden age. But for you it's impressive.",
 
-	 "neutralHello": "",
-		"hateHello": "",
+	 "neutralHello": "Hello, my dear.",
+		"hateHello": "Good morning ",
 
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
+		"declaringWar": "Sorry, but we must eradicate you, eradicate your nation. For the sake of those who survived.",
+		"attacked": "Our nation may be less populous than in our golden age, less large. But we remain numerous enough to make you regret your undertaking.",
+		"defeated": "'The catastrophe' weakened us too much... We were no longer numerous enough to resist.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-		"cities": [""]
+		"cities": ["Zao"]
 	},
 {
-		"name": "",
+		"name": "Kracts-Kur",
 		"adjective": ["Ancient"],
 		"cityStateType": "Ancient civilisation",
   "introduction": "",
@@ -61,10 +61,10 @@
 		"defeated": "",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-		"cities": [""]
+		"cities": ["Raktu-Kir"]
 	},
 {
-		"name": "",
+		"name": "Buguri",
 		"adjective": ["Ancient"],
 		"cityStateType": "Ancient civilisation",
   "introduction": "",
@@ -77,6 +77,6 @@
 		"defeated": "",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-		"cities": [""]
+		"cities": ["Gurig"]
 	},
 ]
