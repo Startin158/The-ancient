@@ -3,9 +3,41 @@
 		"name": "Tiru",
 		"adjective": ["Ancient"],
 		"cityStateType": "Ancient civilisation",
-  "introduction": "",
+  "introduction": "The gods caused "the catastrophe," and the gods saved me, so that I could spread my culture and my faith to you.",
 
 	 "neutralHello": "Hello, new civilization.",
+		"hateHello": "I would have liked to see you survive "the catastrophe",
+
+		"declaringWar": "You oppose the good sense of religion, I MUST exterminate you, so that the gods do not start again.",
+		"attacked": "I have often had enemies who opposed me and the gods. And today, they are no more, and I stand before you. You should have thought before attacking.",
+		"defeated": "you, have defeated, me? The gods are no longer on my side... No impossible ! I realized there is only one posibility. They have been for a long time dead. "The catastrophe" was not their fault.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198,255,192],
+		"cities": ["Ritmu"]
+	},
+{
+		"name": "Lilelle",
+		"adjective": ["Ancient"],
+		"cityStateType": "Ancient civilisation",
+  "introduction": "We've lost all our knowledge since... that. But we've kept our intelligence. We can help you if you'd like.",
+
+	 "neutralHello": "Hello, so you still believe in gods? That's adorable.",
+		"hateHello": "We will use all our intelligence to harm you.",
+
+		"declaringWar": "You are too stupid, we must eliminate you monkeys so as not to slow down our research.",
+		"attacked": "I knew you were stupid, but not stupid enough to attack us.",
+		"defeated": "What? You're just monkeys! INCOMPETENT, STUPID, MORONIC MONKEYS! How could you have defeated us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198,255,192],
+		"cities": ["Lallie"]
+	},
+{
+		"name": "",
+		"adjective": ["Ancient"],
+		"cityStateType": "Ancient civilisation",
+  "introduction": "",
+
+	 "neutralHello": "",
 		"hateHello": "",
 
 		"declaringWar": "",
@@ -13,6 +45,38 @@
 		"defeated": "",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-		"cities": ["Ritmu"]
+		"cities": [""]
+	},
+{
+		"name": "",
+		"adjective": ["Ancient"],
+		"cityStateType": "Ancient civilisation",
+  "introduction": "",
+
+	 "neutralHello": "",
+		"hateHello": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198,255,192],
+		"cities": [""]
+	},
+{
+		"name": "",
+		"adjective": ["Ancient"],
+		"cityStateType": "Ancient civilisation",
+  "introduction": "",
+
+	 "neutralHello": "",
+		"hateHello": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198,255,192],
+		"cities": [""]
 	},
 ]
