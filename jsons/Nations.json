@@ -51,14 +51,14 @@
 		"name": "Kracts-Kur",
 		"adjective": ["Ancient"],
 		"cityStateType": "Ancient civilisation",
-  "introduction": "",
+  "introduction": "Ha ha, your nation is very weak. So, like us since...",
 
-	 "neutralHello": "",
-		"hateHello": "",
+	 "neutralHello": "Hello little warrior",
+		"hateHello": "What do you want, barbarian...",
 
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
+		"declaringWar": "You are a threat to us, we may be weakened, but we are still powerful enough.",
+		"attacked": "That only one nation managed to defeat us, the Baarb-Aeran, and you think you can defeat us?",
+		"defeated": "Ha ha, I didn't realize we'd weakened so much. We would have totally dominated you at that age...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
 		"cities": ["Raktu-Kir"]
