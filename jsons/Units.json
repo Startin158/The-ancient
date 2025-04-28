@@ -6,7 +6,7 @@
 		"strength": 400,
 		"cost": 5959,
 		"promotions": ["Medic","Medic II","Formation I","Formation II","Drill I","Drill II","Drill III","Shock I","Shock II","Shock III","Blitz","Besiege","Charge","Amphibious","Woodsman"],
-  "uniques": ["Unbuildable","[+3] Movement <when not at war>",""]
+  "uniques": ["Unbuildable","[+3] Movement <when not at war>","Can build [All] improvements on tiles"]
 		"attackSound": "phasers"
 	}
 ]
