@@ -2,8 +2,11 @@
 {
 		"name": "",
 		"adjective": ["Ancient"],
-		"cityStateType": "Religious",
+		"cityStateType": "Ancient civilisation",
   "introduction": "",
+
+	 "neutralHello": "",
+		"hateHello": "",
 
 		"declaringWar": "",
 		"attacked": "",
