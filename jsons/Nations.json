@@ -1,6 +1,6 @@
 [
 {
-		"name": "",
+		"name": "Tiru",
 		"adjective": ["Ancient"],
 		"cityStateType": "Ancient civilisation",
   "introduction": "",
@@ -13,6 +13,6 @@
 		"defeated": "",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-		"cities": [""]
+		"cities": ["Ritmu"]
 	},
 ]
