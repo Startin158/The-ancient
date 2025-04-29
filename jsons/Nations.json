@@ -14,7 +14,7 @@
     "uniques": ["Starts with [tech]","Free [unit] appears","[+15 Culture]","[+7 Faith]"]
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-  "uniques" ["[+15 Culture]","[+7 Faith]","[+20 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
+  "uniques" ["[+1 Culture] per [1] population [in all cities]","[+1 Faith] per [2] population [in all cities]","[+10 Culture]","[+5 Faith]","[+20 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
 		"cities": ["Ritmu"]
   
 	},
@@ -32,7 +32,7 @@
 		"defeated": "What? You're just monkeys! INCOMPETENT, STUPID, MORONIC MONKEYS! How could you have defeated us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-  "uniques" ["[+15 Science]","[+20 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
+  "uniques" ["[+3 sciences] per [2] population [in all cities]","[+35 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
 		"cities": ["Lallie"]
 	},
 
@@ -52,6 +52,7 @@
 		"defeated": "'The catastrophe' weakened us too much... We were no longer numerous enough to resist.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
+  "uniques" ["[+1 Food] per [1] population [in all cities]","[+12 Food]","[+20 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
 		"cities": ["Zao"]
 	},
 
@@ -71,6 +72,7 @@
 		"defeated": "Ha ha, I didn't realize we'd weakened so much. We would have totally dominated you at that age...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
+  "uniques" ["[+1 Production] per [1] population [in all cities]","[+15 Production]","[+20 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
 		"cities": ["Raktu-Kir"]
 	},
 
@@ -90,6 +92,7 @@
 		"defeated": "we should have... we should have prepared our army more, and not strengthened our economy",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
+  "uniques" ["[+2 Gold] per [1] population [in all cities]","[+1 Happiness] per [4] population [in all cities]","[+15 Gold]","[+20 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
 		"cities": ["Gurig"]
 	},
 ]
