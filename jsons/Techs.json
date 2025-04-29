@@ -26,6 +26,9 @@
 	},
 
 
+
+
+
 	{
 		"columnNumber": 19,
 		"era": "Era of the ancients",
@@ -50,14 +53,79 @@
 			},
 		]
 	},
+
+
+
+
+
  {
 		"columnNumber": 20,
 		"era": "Era of the ancients",
 		"techCost": 999999999,
 		"techs": [
 			{
-				"name": "Terrain optimization",
+				"name": "",
 				"row": 9,
+    "prerequisites": ["Terrain optimization"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Lilelle."
+			},
+   {
+				"name": "",
+				"row": 8,
+    "prerequisites": ["Terrain optimization"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Lilelle."
+			},
+   {
+				"name": "",
+				"row": 7,
+    "prerequisites": ["Terrain optimization"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Lilelle."
+			},
+   {
+				"name": "",
+				"row": 6,
+    "prerequisites": ["Terrain optimization"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Lilelle."
+			},
+
+
+   {
+				"name": "",
+				"row": 5,
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Lilelle."
+			},
+
+
+   			{
+				"name": "",
+				"row": 4,
+    "prerequisites": ["Best transportation","Reduction in transport costs"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Lilelle."
+			},
+   		{
+				"name": "",
+				"row": 3,
+    "prerequisites": ["Best transportation","Reduction in transport costs"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Lilelle."
+			},
+   		{
+				"name": "",
+				"row": 2,
+    "prerequisites": ["Best transportation","Reduction in transport costs"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Lilelle."
+			},
+   		{
+				"name": "",
+				"row": 1,
+    "prerequisites": ["Best transportation","Reduction in transport costs"]
                 "uniques": [""],
 				"quote": "'An ancient technology discovered by Lilelle."
 			},
