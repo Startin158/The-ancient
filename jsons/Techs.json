@@ -37,8 +37,8 @@
 			{
 				"name": "Terrain optimization",
 				"row": 9,
-                "uniques": [""],
-				"quote": "'An ancient technology discovered by Lilelle."
+                "uniques": ["[-50]% construction time for [All Road] improvements","[-25]% construction time for [All] improvements"],
+				"quote": "An ancient technology discovered by Lilelle."
 			},
 			{
 				"name": "Reduction in transport costs",
