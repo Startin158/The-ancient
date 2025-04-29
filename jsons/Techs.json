@@ -1,25 +1,35 @@
 [
 	{
 		"columnNumber": 18,
-		"era": "Ancient era",
-		"techCost": 20,
-		"buildingCost": 40,
-		"wonderCost": 185,
+		"era": "Era of the ancients",
+		"techCost": 999999999,
 		"techs": [
 			{
-				"name": "Agriculture",
+				"name": "Radiation of exploits",
+				"row": 9,
+				"quote": "An ancient technology discovered by Tiru.",
+				"uniques": [""]
+			},
+   {
+				"name": "Materialization of borders",
 				"row": 6,
-				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
-				"uniques": ["Starting tech"]
-			}
+				"quote": "An ancient technology discovered by Baa-liao.",
+				"uniques": [""]
+			},
+   {
+				"name": "Conservation technique",
+				"row": 4,
+				"quote": "An ancient technology discovered by Baa-liao.",
+				"uniques": [""]
+			},
 		]
 	},
+
+
 	{
-		"columnNumber": 1,
-		"era": "Ancient era",
-		"techCost": 35,
-		"buildingCost": 60,
-		"wonderCost": 185,
+		"columnNumber": 19,
+		"era": "Era of the ancients",
+		"techCost": 999999999,
 		"techs": [
 			{
 				"name": "Pottery",
