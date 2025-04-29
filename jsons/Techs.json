@@ -64,69 +64,69 @@
 		"techCost": 999999999,
 		"techs": [
 			{
-				"name": "",
+				"name": "Efficient industry",
 				"row": 9,
     "prerequisites": ["Terrain optimization"]
                 "uniques": [""],
-				"quote": "'An ancient technology discovered by Lilelle."
+				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
    {
-				"name": "",
+				"name": "Super Fertilizer",
 				"row": 8,
     "prerequisites": ["Terrain optimization"]
                 "uniques": [""],
-				"quote": "'An ancient technology discovered by Lilelle."
+				"quote": "'An ancient technology discovered by Baa-liao."
 			},
    {
-				"name": "",
+				"name": "Natural sciences",
 				"row": 7,
     "prerequisites": ["Terrain optimization"]
                 "uniques": [""],
 				"quote": "'An ancient technology discovered by Lilelle."
 			},
    {
-				"name": "",
+				"name": "Culinary gastronomy",
 				"row": 6,
     "prerequisites": ["Terrain optimization"]
                 "uniques": [""],
-				"quote": "'An ancient technology discovered by Lilelle."
+				"quote": "'An ancient technology discovered by Tiru."
 			},
 
 
    {
-				"name": "",
+				"name": "Reduction in the cost of work",
 				"row": 5,
                 "uniques": [""],
-				"quote": "'An ancient technology discovered by Lilelle."
+				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
 
 
    			{
-				"name": "",
+				"name": "Social sharing",
 				"row": 4,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
                 "uniques": [""],
-				"quote": "'An ancient technology discovered by Lilelle."
+				"quote": "'An ancient technology discovered by Buguri."
 			},
    		{
-				"name": "",
+				"name": "Cultural sharing",
 				"row": 3,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
                 "uniques": [""],
-				"quote": "'An ancient technology discovered by Lilelle."
+				"quote": "'An ancient technology discovered by Tiru."
 			},
    		{
-				"name": "",
+				"name": "Religious sharing",
 				"row": 2,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
                 "uniques": [""],
-				"quote": "'An ancient technology discovered by Lilelle."
+				"quote": "'An ancient technology discovered by Tiru."
 			},
    		{
-				"name": "",
+				"name": "Product sharing",
 				"row": 1,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
                 "uniques": [""],
-				"quote": "'An ancient technology discovered by Lilelle."
+				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
 ]
