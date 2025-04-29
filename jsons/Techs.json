@@ -68,7 +68,7 @@
 				"name": "Efficient industry",
 				"row": 9,
     "prerequisites": ["Terrain optimization"]
-                "uniques": [""],
+                "uniques": ["[+1 Production] from [Quarry] tiles [in all cities]","[+2 Production] from [Lumber mill] tiles [in all cities]","[+2 Production] from [Mine] tiles [in all cities]"],
 				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
    {
