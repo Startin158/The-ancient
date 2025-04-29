@@ -32,7 +32,7 @@
 		"defeated": "What? You're just monkeys! INCOMPETENT, STUPID, MORONIC MONKEYS! How could you have defeated us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-  "uniques": ["[+3 Sciences] per [2] population [in all cities]","[+35 Science]","Free [Ancient warrior] appears","Starts with [Tower of the Wise Men]","Starts with [Scientific sharing]","Starts with [Parallel task]","Starts with [Natural sciences]","Starts with [Terrain optimization]"]
+  "uniques": ["[+3 Science] per [2] population [in all cities]","[+35 Science]","Free [Ancient warrior] appears","Starts with [Tower of the Wise Men]","Starts with [Scientific sharing]","Starts with [Parallel task]","Starts with [Natural sciences]","Starts with [Terrain optimization]"]
 		"cities": ["Lallie"]
 	},
 
