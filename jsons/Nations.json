@@ -92,7 +92,7 @@
 		"defeated": "we should have... we should have prepared our army more, and not strengthened our economy",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-  "uniques": ["[+2 Gold] per [1] population [in all cities]","[+1 Happiness] per [4] population [in all cities]","[+15 Gold]","[+20 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
+  "uniques": ["[+2 Gold] per [1] population [in all cities]","[+1 Happiness] per [4] population [in all cities]","[+15 Gold]","[+20 Science]","Free [Ancient warrior] appears","Starts with [Best transportation]","Starts with [Social sharing]","Starts with [Commercial City]","Starts with [tech]","Starts with [tech]"]
 		"cities": ["Gurig"]
 	},
 ]
