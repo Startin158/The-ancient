@@ -300,6 +300,18 @@
         "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
 		"color": "#4444e1"
    },
+   {
+        "name": "discover a ancient technology",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
+		"color": "#9f7f5c"
+   },
+   {
+        "name": "discover two ancient technologies",
+        "notification": "We have discovered the ancient technology of [techName] in the ruins!",
+        "uniques": ["[2] free random researchable Tech(s) from the [Ancient era]"],
+		"color": "#9f7f5c"
+   },
 
 
 
