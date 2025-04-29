@@ -106,28 +106,28 @@
 				"name": "Social sharing",
 				"row": 4,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
-                "uniques": [""],
+                "uniques": ["[+1 Happiness] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Buguri."
 			},
    		{
 				"name": "Cultural sharing",
 				"row": 3,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
-                "uniques": [""],
+                "uniques": ["[+2 Culture] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Tiru."
 			},
    		{
 				"name": "Religious sharing",
 				"row": 1,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
-                "uniques": [""],
+                "uniques": ["[+2 Faith] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Tiru."
 			},
    		{
 				"name": "Product sharing",
 				"row": 2,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
-                "uniques": [""],
+                "uniques": ["[+2 Production] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
 		]
@@ -148,14 +148,14 @@
 				"name": "Scientific sharing",
 				"row": 3,
     "prerequisites": ["Cultural sharing"]
-                "uniques": [""],
+                "uniques": ["[+2 Science] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Lilelle."
 			},
      {
 				"name": "Culinary sharing",
 				"row": 2,
     "prerequisites": ["Product sharing"]
-                "uniques": [""],
+                "uniques": ["[+2 Food] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Bao-liao."
 			},
 		]
