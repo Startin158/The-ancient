@@ -141,7 +141,7 @@
 				"name": "Parallel task",
 				"row": 5,
     "prerequisites": ["Reduction in the cost of work"]
-                "uniques": [""],
+                "uniques": ["[-33]% Production when constructing [Buildings] buildings [in all cities]"],
 				"quote": "'An ancient technology discovered by Lilelle."
 			},
      {
