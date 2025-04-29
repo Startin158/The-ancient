@@ -14,7 +14,9 @@
     "uniques": ["Starts with [tech]","Free [unit] appears","[+15 Culture]","[+7 Faith]"]
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
+  "uniques" ["[+15 Culture]","[+7 Faith]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
 		"cities": ["Ritmu"]
+  
 	},
 {
 		"name": "Lilelle",
