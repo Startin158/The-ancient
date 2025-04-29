@@ -455,3 +455,34 @@
         "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
         "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
     },
+    {
+        "name": "find a crudely-drawn map",
+        "notification": "We have found a crudely-drawn map in the ruins!",
+        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"]
+    },
+    {
+        "name": "find a far crudely-drawn map",
+        "notification": "We have found a crudely-drawn map in the ruins!",
+        "uniques": ["From a randomly chosen tile [10] tiles away from the ruins, reveal tiles up to [5] tiles away with [60]% chance"]
+    },
+    {
+        "name": "find a map of the surrounding area",
+        "notification": "We have found a drawn map in the ruins!",
+        "uniques": ["From a randomly chosen tile [2] tiles away from the ruins, reveal tiles up to [11] tiles away with [40]% chance","From a randomly chosen tile [2] tiles away from the ruins, reveal tiles up to [3] tiles away with [100]% chance"]
+    },
+    {
+        "name": "find a map of ancient city",
+        "notification": "We have found a drawn map in the ruins!",
+        "uniques": ["Reveal up to [8] [Ancient ruins] within a [10] tile radius"]
+    },
+    {
+        "name": "find a map of Natural Wonder.",
+        "notification": "We have found a drawn map in the ruins!",
+        "uniques": ["Reveal up to [3] [Natural Wonder] within a [33] tile radius"]
+    },
+    {
+        "name": "find a map of some Luxury ressource",
+        "notification": "We have found a drawn map in the ruins!",
+        "uniques": ["Reveal up to [15] [Luxury resource] within a [24] tile radius"]
+    }
+]
