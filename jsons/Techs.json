@@ -168,35 +168,30 @@
 				"name": "Ceremonial Hall",
 				"row": 5,
     "prerequisites": ["Parallel task"]
-                "uniques": [""],
 				"quote": "'An ancient technology discovered by Tiru."
 			},
   {
 				"name": "Tower of the Wise Men",
 				"row": 4,
     "prerequisites": ["Parallel task"]
-                "uniques": [""],
 				"quote": "'An ancient technology discovered by Lilelle."
 			},
   {
 				"name": "Agricultural Skyscraper",
 				"row": 3,
     "prerequisites": ["Parallel task"]
-                "uniques": [""],
 				"quote": "'An ancient technology discovered by Bao-liao."
 			},
   {
 				"name": "Factory City",
 				"row": 2,
     "prerequisites": ["Parallel task"]
-                "uniques": [""],
 				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
   {
 				"name": "Commercial City",
 				"row": 1,
     "prerequisites": ["Parallel task"]
-                "uniques": [""],
 				"quote": "'An ancient technology discovered by Buguri."
 			}
 		]
