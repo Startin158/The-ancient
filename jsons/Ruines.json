@@ -1,0 +1,457 @@
+[
+//goooooooooooooooooooooooooooold
+
+
+       
+    {
+        "name": "the ruins were inhabited!(1)",
+        "notification": "The inhabitants of the ruins were really unfriendly. They forced me to give them gold! (+[goldAmount] Gold)",
+        "uniques": ["Gain [-50]-[-30] [Gold]","Only available <before turn number [50]>"],
+        "color": "#d4c566"
+    },
+    {
+        "name": "the ruins were inhabited!(2)",
+        "notification": "The inhabitants of the ruins were really unfriendly. They forced me to give them gold! (+[goldAmount] Gold)",
+        "uniques": ["Gain [-150]-[-50] [Gold]","Only available <after turn number [70]>"],
+        "color": "#d4c566"
+    },
+    {
+        "name": "a stash of gold(1)",
+        "notification": "We found gold coins in the ruins. (+[goldAmount] Gold)",
+        "uniques": ["Gain [50] [Gold]","Only available <before turn number [50]>"],
+        "color": "#ffeb7f"
+    },
+    {
+        "name": "a stash of gold(2)",
+        "notification": "We found in the ruins, gold coins in a piece of furniture. (+[goldAmount] Gold)",
+        "uniques": ["Gain [50]-[100] [Gold]","Only available <after turn number [30]>","Only available <before turn number [160]>"],
+        "color": "#ffeb7f"
+    },
+    {
+        "name": "a stash of gold(3)",
+        "notification": "We found in the ruins, gold coins under the floor. (+[goldAmount] Gold)",
+        "uniques": ["Gain [200]-[500] [Gold]","Only available <after turn number [70]>","Only available <before turn number [250]>"],
+        "color": "#ffeb7f"
+     },
+     {
+        "name": "a stash of gold(4)",
+        "notification": "We found gold coins in a hidden chest in the ruins. (+[goldAmount] Gold)",
+        "uniques": ["Gain [300]-[800] [Gold]","Only available <after turn number [200]>"],
+        "color": "#ffeb7f"
+    },
+    {
+        "name": "impossible !",
+        "notification": "We found a secret room, filled with gold!(+1000 Gold)",
+        "uniques": ["Gain [1000] [Gold]","Only available <after turn number [40]>"],
+        "color": "#ffc517"
+    },
+
+
+
+
+//Fooooooooooooooooooooood/population
+//Fooooooooooooooooooooood/population
+//Fooooooooooooooooooooood/population
+
+
+
+    {
+        "name": "survivors (adds population to a city)(1)",
+        "notification": "We have found survivors in the ruins! Population added to [cityName].",
+        "uniques": ["[+1] population in a random city","Only available <before turn number [120]>"],
+		"color": "#81c784"
+    },
+    {
+        "name": "survivors (adds population to a city)(2)",
+        "notification": "We have found survivors in the ruins! Population added to [cityName].",
+        "uniques": ["[+1] population in a random city","[+1] population in a random city","Only available <after turn number [100]>"],
+		"color": "#81c784"
+    },
+    {
+        "name": "too many survivors!(1)",
+        "notification": "We have found survivors in the ruins! Population added to [cityName] but bringing them back to town was expensive!. (+[goldAmount] Gold)",
+        "uniques": ["[+3] population in a random city","Gain [-40] [Gold]","Only available <after turn number [50]>","Only available <before turn number [140]>"],
+		"color": "#607d24"
+    },
+    {
+        "name": "too many survivors!(2)",
+        "notification": "We have found survivors in the ruins! Population added to [cityName] but bringing them back to town was expensive!. (+[goldAmount] Gold)",
+        "uniques": ["[+6] population in a random city","Gain [-80] [Gold]","Only available <after turn number [100]>","Only available <before turn number [200]>"],
+		"color": "#607d24"
+    },
+    {
+        "name": "the ruins were inhabited!(3)",
+        "notification": "The inhabitants of the ruins were incredibly generous! They offered us food! (+[foodAmount] Food)",
+        "uniques": ["Gain [10]-[25] [Food]","Only available <after turn number [60]>"],
+        "color": "#4eea45"
+    },
+    {
+        "name": "the ruins were inhabited!(4)",
+        "notification": "The inhabitants of the ruins were incredibly generous! They offered us food! (+[foodAmount] Food)",
+        "uniques": ["Gain [20]-[40] [Food]","Only available <after turn number [40]>","Only available <before turn number [140]>"],
+        "color": "#4eea45"
+    },
+    {
+        "name": "the ruins were inhabited!(5)",
+        "notification": "The inhabitants of the ruins were incredibly generous! They offered us food! (+[foodAmount] Food)",
+        "uniques": ["Gain [30]-[60] [Food]","Only available <after turn number [100]>"],
+        "color": "#4eea45"
+    },
+    
+
+
+
+//cuuultuuuuuuuuuuuuuuuure
+//cuuultuuuuuuuuuuuuuuuure
+//cuuultuuuuuuuuuuuuuuuure
+
+
+
+    {
+        "name": "An offensive encounter(1)",
+        "notification": "Upon entering the caves, we were humiliated by barbarians. This encounter weakened the culture of our civilization.(+[cultureAmount] Culture)",
+        "uniques": ["Gain [-15]-[-5] [Culture]","Only available <before turn number [60]>"],
+        "color": "#6c4a81"
+    },
+    {
+        "name": "An offensive encounter(2)",
+        "notification": "Upon entering the caves, we were humiliated by barbarians. This encounter weakened the culture of our civilization.(+[cultureAmount] Culture)",
+        "uniques": ["Gain [-28]-[-10] [Culture]","Only available <after turn number [50]>","Only available <before turn number [110]>"],
+        "color": "#6c4a81"
+    },
+    {
+        "name": "An offensive encounter(3)",
+        "notification": "Upon entering the caves, we were humiliated by barbarians. This encounter weakened the culture of our civilization.(+[cultureAmount] Culture)",
+        "uniques": ["Gain [-40]-[-15] [Culture]","Only available <after turn number [100]>","Only available <before turn number [160]>"],
+        "color": "#6c4a81"
+    },
+    {
+        "name": "An offensive encounter(4)",
+        "notification": "Upon entering the caves, we were humiliated by barbarians. This encounter weakened the culture of our civilization.(+[cultureAmount] Culture)",
+        "uniques": ["Gain [-55]-[-20] [Culture]","Only available <after turn number [150]>"],
+        "color": "#6c4a81"
+    },
+    {
+        "name": "discover a lot of cultural artifacts(1)",
+        "notification": "We have discovered cultural artifacts in the ruins! (+[cultureAmount] Culture)",
+        "uniques": ["Gain [5]-[20] [Culture]","Only available <before turn number [50]>"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discover a lot of cultural artifacts(2)",
+        "notification": "We have discovered cultural artifacts in the ruins! (+[cultureAmount] Culture)",
+        "uniques": ["Gain [14]-[30] [Culture]","Only available <after turn number [40]>","Only available <before turn number [70]>"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discover a lot of cultural artifacts(3)",
+        "notification": "We have discovered cultural artifacts in the ruins! (+[cultureAmount] Culture)",
+        "uniques": ["Gain [26]-[48] [Culture]","Only available <after turn number [60]>","Only available <before turn number [120]>"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discover a lot of cultural artifacts(4)",
+        "notification": "We have discovered cultural artifacts in the ruins! (+[cultureAmount] Culture)",
+        "uniques": ["Gain [55]-[75] [Culture]","Only available <after turn number [100]>"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "The teachings of a wise man",
+        "notification": "A wise man gave us the wisdom necessary to obtain a doctrine",
+        "uniques": ["[1] Free Social Policies","Only available <after turn number [40]>"],
+        "color": "#c163fc"
+    },
+
+
+
+//Faiiiiiiiiiith/reliiiigiiiiiiiiion
+//Faiiiiiiiiiith/reliiiigiiiiiiiiion
+//Faiiiiiiiiiith/reliiiigiiiiiiiiion
+
+
+
+     {
+        "name": "heretic encounter(1)",
+        "notification": "We met people in the ruins who managed to hurt our faith (+[faithAmount] Faith)",
+        "uniques": ["Gain [-20]-[-5] [Faith]","Only available <when religion is enabled>","Only available <before turn number [50]>","Only available <after turn number [20]>"],
+		"color": "#8e9b9f"
+    },
+    {
+        "name": "heretic encounter(2)",
+        "notification": "We met people in the ruins who managed to hurt our faith (+[faithAmount] Faith)",
+        "uniques": ["Gain [-40]-[-10] [Faith]","Only available <when religion is enabled>","Only available <before turn number [100]>","Only available <after turn number [40]>"],
+		"color": "#8e9b9f"
+    },
+    {
+        "name": "heretic encounter(3)",
+        "notification": "We met people in the ruins who managed to hurt our faith (+[faithAmount] Faith)",
+        "uniques": ["Gain [-80]-[-20] [Faith]","Only available <when religion is enabled>","Only available <after turn number [90]>"],
+		"color": "#8e9b9f"
+    },
+    {
+        "name": "religious symbol(1)",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [10]-[15] [Faith]","Only available <when religion is enabled>","Only available <before turn number [20]>"],
+		"color": "#cdebf4"
+    },
+    {
+        "name": "religious symbol(2)",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [15]-[24] [Faith]","Only available <when religion is enabled>","Only available <before turn number [60]>","Only available <after turn number [15]>"],
+		"color": "#cdebf4"
+    },
+    {
+        "name": "religious symbol(3)",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [25]-[38] [Faith]","Only available <when religion is enabled>","Only available <before turn number [120]>","Only available <after turn number [55]>"],
+		"color": "#cdebf4"
+    },
+    {
+        "name": "religious symbol(4)",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [35]-[65] [Faith]","Only available <when religion is enabled>","Only available <before turn number [220]>","Only available <after turn number [100]>"],
+		"color": "#cdebf4"
+    },
+    {
+        "name": "religious symbol(5)",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [45]-[95] [Faith]","Only available <when religion is enabled>","Only available <after turn number [200]>"],
+		"color": "#cdebf4"
+    },
+    {
+        "name": "discover holy symbols(1)",
+        "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
+        "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon>", "Only available <after turn number [20]>"],
+		"color": "#CDDDF4"
+    },
+    {
+        "name": "an ancient prophecy(1)",
+        "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
+        "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for [33]% of a Great Prophet", "Unavailable <after generating a Great Prophet>",
+            "Only available <after founding a Pantheon>", "Only available <after turn number [20]>"],
+		"color": "#CDDDF4"
+     },
+     {
+        "name": "discover holy symbols(2)",
+        "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion!",
+        "uniques": ["Only available <after founding a Pantheon>","Only available <when religion is enabled>","Gain a free [Founder] belief", "Only available <after turn number [30]>","Only available <before turn number [60]>"],
+		"color": "#CDDDF4"
+    },
+
+
+
+// sciiiiiiiiiiiiiiiiiience/tech
+// sciiiiiiiiiiiiiiiiiience/tech
+// sciiiiiiiiiiiiiiiiiience/tech
+
+
+
+    {
+        "name": "Wrong Way(1)",
+        "notification": "We realized while exploring the mines that we were wrong, we have to start part of our research again. (+[scienceAmount] Science)",
+        "uniques": ["Gain [-20]-[-5] [Science]","Only available <before turn number [50]>"],
+		"color": "#37377a"
+   },
+   {
+        "name": "Wrong Way(2)",
+        "notification": "We realized while exploring the mines that we were wrong, we have to start part of our research again.. (+[scienceAmount] Science)",
+        "uniques": ["Gain [-50]-[-10] [Science]","Only available <after turn number [50]>"],
+		"color": "#37377a"
+   },
+    {
+        "name": "scientific revelation(1)",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
+        "uniques": ["Gain [5]-[15] [Science]","Only available <before turn number [20]>"],
+		"color": "#7f7fff"
+   },
+   {
+        "name": "scientific revelation(2)",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
+        "uniques": ["Gain [10]-[25] [Science]","Only available <before turn number [30]>","Only available <after turn number [15]>"],
+		"color": "#7f7fff"
+   },
+   {
+        "name": "scientific revelation(3)",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
+        "uniques": ["Gain [15]-[50] [Science]","Only available <before turn number [60]>","Only available <after turn number [25]>"],
+		"color": "#7f7fff"
+   },
+   {
+        "name": "scientific revelation(4)",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
+        "uniques": ["Gain [25]-[90] [Science]","Only available <before turn number [110]>","Only available <after turn number [55]>"],
+		"color": "#7f7fff"
+   },
+   {
+        "name": "scientific revelation(5)",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
+        "uniques": ["Gain [40]-[110] [Science]","Only available <before turn number [240]>","Only available <after turn number [100]>"],
+		"color": "#7f7fff"
+   },
+   {
+        "name": "scientific revelation(6)",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
+        "uniques": ["Gain [60]-[220] [Science]","Only available <after turn number [220]>"],
+		"color": "#7f7fff"
+   },
+{
+        "name": "discover a lost technology",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
+		"color": "#4444e1"
+   },
+
+
+
+//production 
+
+
+
+//rien...
+
+
+
+//happiness/golden age
+
+
+
+      {
+        "name": "an ancient prophecy(2)",
+        "notification": "We have found a prophecy that warns us of danger!",
+        "uniques": ["Empire enters a [5]-turn Golden Age"],
+		"color": "#fffc00"
+     },
+     {
+        "name": "an ancient prophecy(3)",
+        "notification": "We have found a prophecy that warns us of danger!",
+        "uniques": ["Empire enters a [15]-turn Golden Age"],
+		"color": "#fffc00"
+     },
+     {
+        "name": "an ancient prophecy(4)",
+        "notification": "We have found a prophecy that warns us of danger!",
+        "uniques": ["Empire enters a [10]-turn Golden Age"],
+		"color": "#fffc00"
+     },
+     {
+        "name": "an ancient prophecy(5)",
+        "notification": "We have found a prophecy that warns us of danger!",
+        "uniques": ["Empire enters a [18]-turn Golden Age"],
+		"color": "#fffc00"
+     },
+
+
+
+//unit
+//unit
+//unit
+
+//civilian
+
+    {
+        "name": "squatters willing to work for you",
+        "notification": "A [Worker] has joined us!",
+        "uniques": ["Free [Worker] found in the ruins","Only available <before turn number [80]>"],
+        
+     },
+     {
+        "name": "squatters wishing to settle under your rule",
+        "notification": "A [Settler] has joined us!",
+        "uniques": ["Free [Settler] found in the ruins"],
+       
+    },
+   {
+   "name": "you saved some one(1)",
+        "notification": "A [Great Artist] has joined us!",
+        "uniques": ["Free [Great Artist] found in the ruins"],
+   },
+   {
+   "name": "you saved some one(2)",
+        "notification": "A [Great Merchant] has joined us!",
+        "uniques": ["Free [Great Merchant] found in the ruins"],
+   },
+
+//Military
+
+     {
+        "name": "unwanted people!(1)",
+        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
+        "uniques": ["Free [Brute] found in the ruins"],
+    },
+    {
+        "name": "unwanted people!(2)",
+        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
+        "uniques": ["Free [Composite Bowman] found in the ruins","Only available <after turn number [20]>"],
+    },
+    {
+        "name": "unwanted people!(3)",
+        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
+        "uniques": ["Free [Spearman] found in the ruins","Only available <before turn number [30]>"],
+    },
+    {
+        "name": "unwanted people!(4)",
+        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
+        "uniques": ["Free [Swordsman] found in the ruins","Only available <after turn number [30]>"],
+    },
+
+
+
+//usless
+//usless 
+//usless
+
+
+
+    {
+        "name": "Incredible discovery(1)",
+        "notification": "We found many things in the ruins! Unfortunately everything was broken... But we found a gold coin!",
+        "uniques": ["Gain [1] [Gold]"],
+    },
+    {
+        "name": "Incredible discovery(2)",
+        "notification": "We found many things in the ruins! Unfortunately everything was broken... But we found a apple!",
+        "uniques": ["Gain [1] [Food]"],
+    },
+
+
+
+
+//units bonus
+//units bonus 
+//units bonus
+
+
+
+
+    {
+        "name": "your exploring unit receives training",
+        "notification": "An ancient tribe trained us in their ways of combat!",
+        "uniques": ["[This Unit] gains [10] XP"]
+    },
+     {
+        "name": "your exploring unit receives hard training",
+        "notification": "An ancient tribe trained us in their ways of combat!",
+        "uniques": ["[This Unit] gains [25] XP", "Only available <after turn number [10]>"]
+    },
+     {
+        "name": "your exploring unit receives deadly training",
+        "notification": "An ancient tribe trained us in their ways of combat!",
+        "uniques": ["[This Unit] gains [40] XP", "Only available <after turn number [30]>"]
+    },
+    {
+        "name": "advanced weaponry for your explorer",
+        "notification": "Our unit finds advanced weaponry hidden in the ruins!",
+        "uniques": ["[This Unit] upgrades for free including special upgrades"]
+    },
+
+
+//map
+//map
+//map
+
+
+    {
+        "name": "reveal nearby Barbarian camps",
+        "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+    },
