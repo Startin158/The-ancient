@@ -164,35 +164,35 @@
 		"techCost": 999999999,
 		"techs": [
   {
-				"name": "",
+				"name": "Ceremonial Hall",
 				"row": 5,
     "prerequisites": ["Parallel task"]
                 "uniques": [""],
 				"quote": "'An ancient technology discovered by Tiru."
 			},
   {
-				"name": "",
+				"name": "Tower of the Wise Men",
 				"row": 4,
     "prerequisites": ["Parallel task"]
                 "uniques": [""],
 				"quote": "'An ancient technology discovered by Lilelle."
 			},
   {
-				"name": "",
+				"name": "Agricultural Skyscraper",
 				"row": 3,
     "prerequisites": ["Parallel task"]
                 "uniques": [""],
 				"quote": "'An ancient technology discovered by Bao-liao."
 			},
   {
-				"name": "",
+				"name": "Factory City",
 				"row": 2,
     "prerequisites": ["Parallel task"]
                 "uniques": [""],
 				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
   {
-				"name": "",
+				"name": "Commercial City",
 				"row": 1,
     "prerequisites": ["Parallel task"]
                 "uniques": [""],
