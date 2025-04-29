@@ -301,15 +301,15 @@
 		"color": "#4444e1"
    },
    {
-        "name": "discover a ancient technology",
+        "name": "discover an ancient technology",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
+        "uniques": ["[1] free random researchable Tech(s) from the [Era of the ancients]"],
 		"color": "#9f7f5c"
    },
    {
         "name": "discover two ancient technologies",
-        "notification": "We have discovered the ancient technology of [techName] in the ruins!",
-        "uniques": ["[2] free random researchable Tech(s) from the [Ancient era]"],
+        "notification": "We have discovered two technologies in the ruins!",
+        "uniques": ["[2] free random researchable Tech(s) from the [Era of the ancients]"],
 		"color": "#9f7f5c"
    },
 
