@@ -72,7 +72,7 @@
 		"defeated": "Ha ha, I didn't realize we'd weakened so much. We would have totally dominated you at that age...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-  "uniques": ["[+1 Production] per [1] population [in all cities]","[+15 Production]","[+20 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
+  "uniques": ["[+1 Production] per [1] population [in all cities]","[+15 Production]","[+20 Science]","Free [Ancient warrior] appears","Starts with [Efficient industry]","Starts with [Reduction in the cost of work]","Starts with [Product sharing]","Starts with [Factory City]","Starts with [Reduction in transport costs]"]
 		"cities": ["Raktu-Kir"]
 	},
 
