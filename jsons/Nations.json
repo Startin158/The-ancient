@@ -52,7 +52,7 @@
 		"defeated": "'The catastrophe' weakened us too much... We were no longer numerous enough to resist.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-  "uniques": ["[+1 Food] per [1] population [in all cities]","[+12 Food]","[+20 Science]","Free [Ancient warrior] appears","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]","Starts with [tech]"]
+  "uniques": ["[+1 Food] per [1] population [in all cities]","[+12 Food]","[+20 Science]","Free [Ancient warrior] appears","Starts with [Agricultural Skyscraper]","Starts with [Culinary sharing]","Starts with [Super Fertilizer]","Starts with [Technique of conservation]","Starts with [Materialization of borders]"]
 		"cities": ["Zao"]
 	},
 
