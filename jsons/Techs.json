@@ -20,7 +20,7 @@
 				"name": "Technique of conservation",
 				"row": 4,
 				"quote": "An ancient technology discovered by Baa-liao.",
-				"uniques": [""]
+				"uniques": ["[+2 Food] <in cities with at least [4] [Population]>","[20]% Food is carried over after population increases [in all cities]"]
 			},
 		]
 	},
