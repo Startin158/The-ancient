@@ -43,12 +43,13 @@
 			{
 				"name": "Reduction in transport costs",
 				"row": 4,
+    "uniques": ["[-33]% maintenance on road & railroads"]
 				"quote": "An ancient technology discovered by Guguri."
 			},
 			{
 				"name": "Best transportation",
 				"row": 1,
-                "uniques": [""],
+                "uniques": ["[3] Movement <in [Railroad] tiles>","[2] Movement <in [Road] tiles>"],
 				"quote": "An ancient technology discovered by Guburi."
 			},
 		]
