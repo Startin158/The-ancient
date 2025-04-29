@@ -8,7 +8,7 @@
 				"name": "Radiation of exploits",
 				"row": 9,
 				"quote": "An ancient technology discovered by Tiru.",
-				"uniques": [""]
+				"uniques": ["[+2 Culture] from [Natural Wonder] tiles [in all cities]","[+2 Culture] from all [World Wonder] buildings <in [in all cities] cities>","[+2 Culture] from all [National Wonder] buildings <in [in all cities] cities>"]
 			},
    {
 				"name": "Materialization of borders",
