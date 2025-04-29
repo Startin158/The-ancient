@@ -2,11 +2,11 @@
 	{
 		"name": "Ancient warrior",
 		"unitType": "Sword",
-		"movement": 2,
+		"movement": 3,
 		"strength": 400,
 		"cost": 5959,
 		"promotions": ["Medic","Medic II","Formation I","Formation II","Drill I","Drill II","Drill III","Shock I","Shock II","Shock III","Blitz","Besiege","Charge","Amphibious","Woodsman"],
-  "uniques": ["Unbuildable","[+1] Movement <when not at war>","Can build [All] improvements on tiles","Cannot move <in [Enemy Land] tiles> <when at war>"]
+  "uniques": ["Unbuildable","[+3] Movement <when not at war>","Can build [All] improvements on tiles","Cannot move <in [Enemy Land] tiles> <when at war>"]
 		"attackSound": "phasers"
 	}
 ]
