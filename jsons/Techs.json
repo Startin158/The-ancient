@@ -157,4 +157,47 @@
                 "uniques": [""],
 				"quote": "'An ancient technology discovered by Bao-liao."
 			},
+		]
+	},
+  "columnNumber": 22,
+		"era": "Era of the ancients",
+		"techCost": 999999999,
+		"techs": [
+  {
+				"name": "",
+				"row": 5,
+    "prerequisites": ["Parallel task"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Tiru."
+			},
+  {
+				"name": "",
+				"row": 4,
+    "prerequisites": ["Parallel task"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Lilelle."
+			},
+  {
+				"name": "",
+				"row": 3,
+    "prerequisites": ["Parallel task"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Bao-liao."
+			},
+  {
+				"name": "",
+				"row": 2,
+    "prerequisites": ["Parallel task"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Kracts-Kur."
+			},
+  {
+				"name": "",
+				"row": 1,
+    "prerequisites": ["Parallel task"]
+                "uniques": [""],
+				"quote": "'An ancient technology discovered by Buguri."
+			}
+		]
+	}
 ]
