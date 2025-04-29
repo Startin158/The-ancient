@@ -14,7 +14,7 @@
 				"name": "Materialization of borders",
 				"row": 6,
 				"quote": "An ancient technology discovered by Baa-liao.",
-				"uniques": [""]
+				"uniques": ["[-50]% Culture cost of natural border growth [in all cities]"]
 			},
    {
 				"name": "Technique of conservation",
