@@ -294,12 +294,6 @@
         "uniques": ["Gain [60]-[220] [Science]","Only available <after turn number [220]>"],
 		"color": "#7f7fff"
    },
-{
-        "name": "discover a lost technology",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
-		"color": "#4444e1"
-   },
    {
         "name": "discover an ancient technology",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
@@ -310,6 +304,12 @@
         "name": "discover two ancient technologies",
         "notification": "We have discovered two technologies in the ruins!",
         "uniques": ["[2] free random researchable Tech(s) from the [Era of the ancients]"],
+		"color": "#9f7f5c"
+   },
+	{
+        "name": "discover a lost ancient technologies",
+        "notification": "We have discovered two technologies in the ruins!",
+        "uniques": ["[1] free random researchable Tech(s) from the [Era of the ancients]"],
 		"color": "#9f7f5c"
    },
 
