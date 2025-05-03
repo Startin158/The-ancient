@@ -12,7 +12,7 @@
     {
         "name": "the ruins were inhabited!(2)",
         "notification": "The inhabitants of the ruins were really unfriendly. They forced me to give them gold! (+[goldAmount] Gold)",
-        "uniques": ["Gain [-150]-[-50] [Gold]","Only available <after turn number [70]>"],
+        "uniques": ["Gain [-150]-[-50] [Gold]","Only available <after turn number [50]>"],
         "color": "#d4c566"
     },
     {
@@ -24,7 +24,7 @@
     {
         "name": "a stash of gold(2)",
         "notification": "We found in the ruins, gold coins in a piece of furniture. (+[goldAmount] Gold)",
-        "uniques": ["Gain [50]-[100] [Gold]","Only available <after turn number [30]>","Only available <before turn number [160]>"],
+        "uniques": ["Gain [50]-[100] [Gold]","Only available <after turn number [50]>","Only available <before turn number [70]>"],
         "color": "#ffeb7f"
     },
     {
@@ -36,7 +36,7 @@
      {
         "name": "a stash of gold(4)",
         "notification": "We found gold coins in a hidden chest in the ruins. (+[goldAmount] Gold)",
-        "uniques": ["Gain [300]-[800] [Gold]","Only available <after turn number [200]>"],
+        "uniques": ["Gain [300]-[800] [Gold]","Only available <after turn number [250]>"],
         "color": "#ffeb7f"
     },
     {
