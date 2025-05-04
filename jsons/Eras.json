@@ -2,7 +2,7 @@
     {
         "name": "Era of the ancients",
         "researchAgreementCost": 150,
-        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingSettlerCount": 1,
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 1,
         "startingMilitaryUnit": "Warrior",
