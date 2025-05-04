@@ -8,19 +8,19 @@
 				"name": "Radiation of exploits",
 				"row": 9,
 				"quote": "An ancient technology discovered by Tiru.",
-				"uniques": ["[0]% weight to this choice for AI decisions","[+2 Culture] from [Natural Wonder] tiles [in all cities]","[+2 Culture] from all [World Wonder] buildings <in [in all cities] cities>","[+2 Culture] from all [National Wonder] buildings <in [in all cities] cities>"]
+				"uniques": ["[-100]% weight to this choice for AI decisions","[+2 Culture] from [Natural Wonder] tiles [in all cities]","[+2 Culture] from all [World Wonder] buildings <in [in all cities] cities>","[+2 Culture] from all [National Wonder] buildings <in [in all cities] cities>"]
 			},
    {
 				"name": "Materialization of borders",
 				"row": 6,
 				"quote": "An ancient technology discovered by Baa-liao.",
-				"uniques": ["[0]% weight to this choice for AI decisions","[-50]% Culture cost of natural border growth [in all cities]","[-25]% Gold cost of acquiring tiles [in all cities]"]
+				"uniques": ["[-100]% weight to this choice for AI decisions","[-50]% Culture cost of natural border growth [in all cities]","[-25]% Gold cost of acquiring tiles [in all cities]"]
 			},
    {
 				"name": "Technique of conservation",
 				"row": 4,
 				"quote": "An ancient technology discovered by Baa-liao.",
-				"uniques": ["[0]% weight to this choice for AI decisions","[+2 Food] <in cities with at least [4] [Population]>","[20]% Food is carried over after population increases [in all cities]"]
+				"uniques": ["[-100]% weight to this choice for AI decisions","[+2 Food] <in cities with at least [4] [Population]>","[20]% Food is carried over after population increases [in all cities]"]
 			},
 		]
 	},
@@ -37,19 +37,19 @@
 			{
 				"name": "Terrain optimization",
 				"row": 9,
-                "uniques": ["[0]% weight to this choice for AI decisions","[-50]% construction time for [All Road] improvements","[-25]% construction time for [All] improvements"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[-50]% construction time for [All Road] improvements","[-25]% construction time for [All] improvements"],
 				"quote": "An ancient technology discovered by Lilelle."
 			},
 			{
 				"name": "Reduction in transport costs",
 				"row": 4,
-    "uniques": ["[0]% weight to this choice for AI decisions","[-33]% maintenance on road & railroads"]
+    "uniques": ["[-100]% weight to this choice for AI decisions","[-33]% maintenance on road & railroads"]
 				"quote": "An ancient technology discovered by Guguri."
 			},
 			{
 				"name": "Best transportation",
 				"row": 1,
-                "uniques": ["[0]% weight to this choice for AI decisions","[3] Movement <in [Railroad] tiles>","[2] Movement <in [Road] tiles>"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[3] Movement <in [Railroad] tiles>","[2] Movement <in [Road] tiles>"],
 				"quote": "An ancient technology discovered by Guburi."
 			},
 		]
@@ -68,28 +68,28 @@
 				"name": "Efficient industry",
 				"row": 9,
     "prerequisites": ["Terrain optimization"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+1 Production] from [Quarry] tiles [in all cities]","[+2 Production] from [Lumber mill] tiles [in all cities]","[+2 Production] from [Mine] tiles [in all cities]"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+1 Production] from [Quarry] tiles [in all cities]","[+2 Production] from [Lumber mill] tiles [in all cities]","[+2 Production] from [Mine] tiles [in all cities]"],
 				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
    {
 				"name": "Super Fertilizer",
 				"row": 8,
     "prerequisites": ["Terrain optimization"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+2 Food] from [Terrace farm] tiles [in all cities]","[+2 Food] from [Farm] tiles [in all cities]","[+2 Food] from [Polder] tiles [in all cities]"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+2 Food] from [Terrace farm] tiles [in all cities]","[+2 Food] from [Farm] tiles [in all cities]","[+2 Food] from [Polder] tiles [in all cities]"],
 				"quote": "'An ancient technology discovered by Baa-liao."
 			},
    {
 				"name": "Natural sciences",
 				"row": 7,
     "prerequisites": ["Terrain optimization"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+4 Science] from [unimproved] tiles [in all cities]","[+1 Science] from [Polder] tiles [in all cities]","[+1 Science] from [Farm] tiles [in all cities]","[+1 Science] from [Terrace farm] tiles [in all cities]"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+4 Science] from [unimproved] tiles [in all cities]","[+1 Science] from [Polder] tiles [in all cities]","[+1 Science] from [Farm] tiles [in all cities]","[+1 Science] from [Terrace farm] tiles [in all cities]"],
 				"quote": "'An ancient technology discovered by Lilelle."
 			},
    {
 				"name": "Culinary gastronomy",
 				"row": 6,
     "prerequisites": ["Terrain optimization"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+1 Culture] from [Terrace farm] tiles [in all cities]","[+10 Culture] from [Farm] tiles [in all cities]","[+1 Culture] from [Polder] tiles [in all cities]"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+1 Culture] from [Terrace farm] tiles [in all cities]","[+10 Culture] from [Farm] tiles [in all cities]","[+1 Culture] from [Polder] tiles [in all cities]"],
 				"quote": "'An ancient technology discovered by Tiru."
 			},
 
@@ -97,7 +97,7 @@
    {
 				"name": "Reduction in the cost of work",
 				"row": 5,
-                "uniques": ["[0]% weight to this choice for AI decisions","[15] units cost no maintenance"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[15] units cost no maintenance"],
 				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
 
@@ -106,28 +106,28 @@
 				"name": "Social sharing",
 				"row": 4,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+1 Happiness] from each Trade Route"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+1 Happiness] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Buguri."
 			},
    		{
 				"name": "Cultural sharing",
 				"row": 3,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+2 Culture] from each Trade Route"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+2 Culture] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Tiru."
 			},
    		{
 				"name": "Religious sharing",
 				"row": 1,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+2 Faith] from each Trade Route"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+2 Faith] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Tiru."
 			},
    		{
 				"name": "Product sharing",
 				"row": 2,
     "prerequisites": ["Best transportation","Reduction in transport costs"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+2 Production] from each Trade Route"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+2 Production] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Kracts-Kur."
 			},
 		]
@@ -141,21 +141,21 @@
 				"name": "Parallel task",
 				"row": 5,
     "prerequisites": ["Reduction in the cost of work"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[-33]% Production when constructing [Buildings] buildings [in all cities]"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[-33]% Production when constructing [Buildings] buildings [in all cities]"],
 				"quote": "'An ancient technology discovered by Lilelle."
 			},
      {
 				"name": "Scientific sharing",
 				"row": 3,
     "prerequisites": ["Cultural sharing"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+2 Science] from each Trade Route"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+2 Science] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Lilelle."
 			},
      {
 				"name": "Culinary sharing",
 				"row": 2,
     "prerequisites": ["Product sharing"]
-                "uniques": ["[0]% weight to this choice for AI decisions","[+2 Food] from each Trade Route"],
+                "uniques": ["[-100]% weight to this choice for AI decisions","[+2 Food] from each Trade Route"],
 				"quote": "'An ancient technology discovered by Bao-liao."
 			},
 		]
