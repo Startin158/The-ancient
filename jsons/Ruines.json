@@ -294,33 +294,7 @@
         "uniques": ["Gain [60]-[220] [Science]","Only available <after turn number [220]>"],
 		"color": "#7f7fff"
    },
-   {
-        "name": "discover an ancient technology",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["[1] free random researchable Tech(s) from the [Era of the ancients]"],
-		"color": "#9f7f5c"
-   },
-   {
-        "name": "discover two ancient technologies",
-        "notification": "We have discovered two technologies in the ruins!",
-        "uniques": ["[2] free random researchable Tech(s) from the [Era of the ancients]"],
-		"color": "#9f7f5c"
-   },
-	{
-        "name": "discover a lost ancient technologies",
-        "notification": "We have discovered a lost technologies in the ruins!",
-        "uniques": ["[1] free random researchable Tech(s) from the [Era of the ancients]"],
-		"color": "#9f7f5c"
-   },
-{
-        "name": "discover two lost ancient technologies",
-        "notification": "We have discovered two lost technologies in the ruins!",
-        "uniques": ["[2] free random researchable Tech(s) from the [Era of the ancients]"],
-		"color": "#9f7f5c"
-   },
-
-
-
+   
 //production 
 
 
@@ -503,4 +477,58 @@
         "notification": "We have found a drawn map in the ruins!",
         "uniques": ["Reveal up to [15] [Luxury resource] within a [24] tile radius"]
     }
+
+
+
+
+
+
+
+
+
+//technologie des anciens 
+
+
+
+
+
+
+
+
+{
+        "name": "discover an ancient technology()",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+		"color": "#9f7f5c"
+   },
+{
+        "name": "discover an ancient technology()",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+		"color": "#9f7f5c"
+   },
+{
+        "name": "discover an ancient technology()",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+		"color": "#9f7f5c"
+   },
+{
+        "name": "discover an ancient technology()",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+		"color": "#9f7f5c"
+   },
+{
+        "name": "discover an ancient technology()",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+		"color": "#9f7f5c"
+   },
+{
+        "name": "discover an ancient technology()",
+        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+		"color": "#9f7f5c"
+   },
 ]
