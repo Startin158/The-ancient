@@ -526,33 +526,33 @@
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Culinary gastronomy)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Culinary gastronomy]>","Discover [Culinary gastronomy]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Natural sciences)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Natural sciences]>","Discover [Natural sciences]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Super Fertilizer)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Super Fertilizer]>","Discover [Super Fertilizer]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Efficient industry)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Efficient industry]>","Discover [Efficient industry]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Best transportation)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Best transportation]>","Discover [Best transportation]"],
 		"color": "#9f7f5c"
    },
 {
