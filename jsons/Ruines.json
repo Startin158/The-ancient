@@ -556,33 +556,33 @@
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Product sharing)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Product sharing]>","Discover [Product sharing]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Religious sharing)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Religious sharing]>","Discover [Religious sharing]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Cultural sharing)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Cultural sharing]>","Discover [Cultural sharing]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Social sharing)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Social sharing]>","Discover [Social sharing]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Reduction in the cost of work)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Reduction in the cost of work]>","Discover [Reduction in the cost of work]"],
 		"color": "#9f7f5c"
    },
 {
