@@ -586,47 +586,21 @@
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Culinary sharing)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Culinary sharing]>","Discover [Culinary sharing]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Scientific sharing)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Scientific sharing]>","Discover [Scientific sharing]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Parallel task)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
-		"color": "#9f7f5c"
-   },
-{
-        "name": "discover an ancient technology()",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
-		"color": "#9f7f5c"
-   },
-
-{
-        "name": "discover an ancient technology()",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
-		"color": "#9f7f5c"
-   },
-
-{
-        "name": "discover an ancient technology()",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
-		"color": "#9f7f5c"
-   },
-{
-        "name": "discover an ancient technology()",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Parallel task]>","Discover [Parallel task]"],
 		"color": "#9f7f5c"
    },
 ]
