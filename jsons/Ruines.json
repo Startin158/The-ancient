@@ -496,33 +496,33 @@
 
 
 {
-        "name": "discover an ancient technology()",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "name": "discover an ancient technology(Reduction in transport costs)",
+        "notification": "We have discovered the lost technology of [Reduction in transport costs] in the ruins!",
+        "uniques": ["Only available <before discovering [Reduction in transport costs]>","Discover [Reduction in transport costs]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "name": "discover an ancient technology(Terrain optimization)",
+        "notification": "We have discovered the lost technology of [Terrain optimization] in the ruins!",
+        "uniques": ["Only available <before discovering [Terrain optimization]>","Discover [Terrain optimization]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Materialization of borders)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Materialization of borders]>","Discover [Materialization of borders]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Technique of conservation)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Technique of conservation]>","Discover [Technique of conservation]"],
 		"color": "#9f7f5c"
    },
 {
-        "name": "discover an ancient technology()",
+        "name": "discover an ancient technology(Radiation of exploits)",
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
-        "uniques": ["Only available <before discovering [techFilter]>","Discover [tech]"],
+        "uniques": ["Only available <before discovering [Radiation of exploits]>","Discover [Radiation of exploits]"],
 		"color": "#9f7f5c"
    },
 {
