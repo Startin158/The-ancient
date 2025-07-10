@@ -11,7 +11,6 @@
 		"declaringWar": "You oppose the good sense of religion, I MUST exterminate you, so that the gods do not start again.",
 		"attacked": "I have often had enemies who opposed me and the gods. And today, they are no more, and I stand before you. You should have thought before attacking.",
 		"defeated": "you, have defeated, me? The gods are no longer on my side... No impossible ! I realized there is only one posibility. They have been for a long time dead. 'The catastrophe' was not their fault.",
-    "uniques": ["Starts with [tech]","Free [unit] appears","[+15 Culture]","[+7 Faith]"]
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
   "uniques": ["[+1 Culture] per [1] population [in all cities]","[+1 Faith] per [2] population [in all cities]","[+10 Culture]","[+5 Faith]","[+20 Science]","Free [Ancient warrior] appears","Starts with [Ceremonial Hall]","Starts with [Religious sharing]","Starts with [Cultural sharing]","Starts with [Culinary gastronomy]","Starts with [Radiation of exploits]"]
