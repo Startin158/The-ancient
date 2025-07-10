@@ -1,0 +1,11 @@
+[
+{ 
+                "name": "Barbarian encampment", 
+                "terrainsCanBeBuiltOn": ["Land"],
+                "uniques": [
+                        "Unpillagable",
+                        "Unbuildable",
+                        "Provides a random bonus when entered"],
+        "civilopediaText": [{"text": "Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
+},
+]
